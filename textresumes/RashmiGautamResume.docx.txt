@@ -1,0 +1,82 @@
+RASHMI GAUTAM
+
+730 E Evelyn Ave,Sunnyvale, CA-94086				(804) 334-6386
+mailto:rashmi.gautam@gmail.com
+http://www.linkedin.com/pub/rashmi-gautam/a/a23/a87
+
+Summary of Qualifications	
+10 plus years of experience as Technology Lead with architectural knowledge of establishing and implementing data warehouse and business intelligence systems. 	 
+Exceptional background in analysis, design, development, and implementation and testing of enterprise level data warehouse/business intelligence projects.
+Excellent knowledge of data analysis  and  ETL to create an integrated enterprise data warehouse.
+Worked on all phases of data warehouse development lifecycle, from gathering requirements to testing, implementation, and support.
+Expertise  utilizing ETL tools-Informatica and Teradata.
+Hands on experience in reporting tools - BO and Tableau
+Experience in training developers and advising technical groups on ETL best practices.
+Excellent technical and analytical skills with clear understanding of design goals of ER modeling for OLTP and dimension modeling for OLAP.
+Team leader with excellent communication and problem solving skills.
+Experienced in scheduling and estimation of ETL projects
+9 years of experience in onsite-offshore delivery model/Global delivery Model
+6 years of direct client interfacing experience
+
+Technical Skills
+Informatica 9.1,Teradata 12, Business Objects,Tableau,Microsoft Office Suite, Microsoft Visual SourceSafe,Windows NT/2000/XP, UNIX ,Sharepoint,Macintosh and Apple apps
+
+Education 
+Bachelor of Engineering (B.E.) in Computer Technology from Nagpur University, India
+
+Work Status
+H1-B VISA
+
+Certifications and Trainings
+AHIP - Fundamentals of Health Insurance Part A
+AHIP - Fundamentals of Health Insurance Part B
+Infosys PM Elite Lite - T100 Certification
+Informatica Exam N: PowerCenter 7 Mapping Design
+Informatica Exam P: PowerCenter 7 Advanced Mapping Design
+Informatica Exam M: PowerCenter 7 Architecture and Administration
+Teradata Basics V2R5 Exam Certification
+
+Professional Experience
+
+December 2013 - June 2014
+November 2003-November 2013 - Infosys Technologies Ltd. (NASDAQ: INFY)
+
+Client : Apple Inc.
+September 2012-   Till Date
+Joined Global Business Intelligence Team at Apple Inc as a Functional Lead.
+Currently working across applications like WorldWide Iphone Sales Reporting,Tableau based dashboard , EDW semantic applications, and retail data induction.Involved in Project management for Channel Sales Portfolio at Apple Inc.
+
+Role:	Project Manager
+
+Responsibilities:
+Liaison with business on new requirements and brainstorming 
+GAP analysis
+Functional specifications designing and testing.
+Post implementation support.
+Create project plan and  Track project progress 
+Coordinate with development team. Resolve all risks/ issues/dependencies on cross functional teams
+Provide project status - List of development tracks,Risks & Issues   on weekly basis.
+
+Role:	Project Manager
+
+Client : WellPoint
+June 2008-August 2012
+Enterprise Valuation Application development for WellPoint, a leading health-care provider in USA.
+This project involves development and maintenance of the Enterprise Valuation Platform. This integrated data mart and application helped the Actuarial team in critical month-end reporting and reserving.
+Received 7/7 customer Delight rating from client.
+
+Role:	Project Lead
+
+Responsibilities:
+Review of Business & Technical Requirements
+Managing the offshore/onsite project team from onsite
+Design and Architecture
+Estimation
+Coding and Testing
+Implementation
+Warranty Support and Enhancements
+Liaison between technical and business team
+Invoicing and Billing activities
+
+November 2003- May2008
+Worked on development of Enterprise Operational Data Store, Enterprise Data warehouse, DWH Production support activities,Integration of Data-warehouses for WellPoint, USA at both offshore and onsite locations.

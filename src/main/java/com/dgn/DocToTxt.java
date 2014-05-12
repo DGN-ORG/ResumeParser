@@ -91,8 +91,8 @@ public class DocToTxt {
 	}
 public static void main(String[] args) throws IOException {
 
-	File inputDir = new File("//home//hduser//Downloads//Resumes");
-	String outDir = "/home/hduser/Downloads/TextResumes";
+	File inputDir = new File("/home/dgn/ResumeParser/sourceresumes");
+	String outDir = "/home/dgn/ResumeParser/textresumes";
 
 	for(File f:inputDir.listFiles())
 	{
